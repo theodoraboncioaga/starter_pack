@@ -54,7 +54,7 @@ First read this, it contains some very useful lessons on software developement a
     - These are references looking at different methods for validating simulations with digital image correlation data.
     - I would read the Lava 2020 and the Rohe and Jones 2021 papers and leave the rest for future reference.
 
-8. [New Starter Software]() - Hands-On Tutorials
+8. [New Starter Software](https://github.com/theodoraboncioaga/starter_pack/blob/main/new_starter_software.md) - Hands-On Tutorials
     - Contains a bunch of information on getting started with the main software tools we use, go through all of this.
 
 ## Jargon Buster
